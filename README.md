@@ -1,7 +1,18 @@
 # tts2
 A TV Series downloader.
 
-## Modules
+### Setup
+```
+git clone https://github.com/ianwright27/tts2_TV-Series-Downloader.git
+python setup.py
+```
+After that, 
+```
+python main.py
+```
+... and enjoy
+
+# Modules
 #### BeautifulSoup
 #### Requests
 
