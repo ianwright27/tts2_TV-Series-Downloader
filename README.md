@@ -5,4 +5,4 @@ A TV Series downloader.
 #### BeautifulSoup
 #### Requests
 
-![]('tts2.PNG')
+![](tts2.PNG)
