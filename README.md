@@ -1,3 +1,8 @@
-# tts2_TV-Series-Downloader
-TV Series downloader from a python script using BeautifulSoup and Requests
+# tts2
+A TV Series downloader.
+
+## Modules
+#### BeautifulSoup
+#### Requests
+
 ![]('tts2.png')
