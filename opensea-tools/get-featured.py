@@ -9,7 +9,6 @@ from introscreen import logo
 from os import system
 
 
-
 target_url = "https://opensea.io/"
 sample_header = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
@@ -65,8 +64,8 @@ def fetch_data():
     soup = BeautifulSoup(request.text, 'lxml')
 
    # print normal output.html
-    with open("output/output.html", "w") as f:
-        f.write(request.text)
+    with open("output/output.html", "wb") as f:
+        f.write(request.content)
 
     # find top featured collection
     top_card = soup.select('.Blockreact__Block-sc-1xf18x6-0.Flexreact__Flex-sc-1twd32i-0.elqhCm.jYqxGr.Featured--image-card')
@@ -82,8 +81,8 @@ def fetch_data():
     # except:
 
     #     # write output to error.html
-    #     with open("output/error.html", "w") as f:
-    #         f.write(request.text)
+    #     with open("output/error.html", "wb") as f:
+    #         f.write(request.content)
         
     #     return
     # =====================================================================================

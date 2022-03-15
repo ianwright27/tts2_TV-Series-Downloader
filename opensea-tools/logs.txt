@@ -169,3 +169,58 @@ All requests from last time are logged here
 
 
 
+{
+    "date": "Tue 15 Mar 14:47:01",
+    "rest_featured": [
+        {
+            "desc": "",
+            "link": "",
+            "name": ""
+        },
+        {
+            "desc": "Original paintings and animations from LA based artist Robert S. Connett",
+            "link": "https://opensea.io/collection/rsconnett-etherfauna",
+            "name": "Etherfauna"
+        },
+        {
+            "desc": "The Purpose Of Light is my observation of a new generation of activists. Empowered by empathy and purpose, they support the anti-racist movement, climate change so much more. My lens will be the custodian of their truth and a reminder of who we can be when we come together to force change.",
+            "link": "https://opensea.io/collection/the-purpose-of-light",
+            "name": "The Purpose Of Light."
+        },
+        {
+            "desc": "Singularity in Heritage, an AI-driven NFT exhibition at ArtDubai Digital Booth with GAZELL.iO, brings the innovation of Eastern visual arts, crafts, traditions, motifs and transmutes it to an experiment in cultural memory. Orkhan Mammadov aims to broaden the scope of a living tradition by bringing to life these new imagined rugs, coupled with data painting techniques, thread simulation, and color data. He opens up a space for a dialogue between the past and future, dystopia and utopia, to document and preserve the vast cultural history and tradition of the NFT future. As a result, Mammadov pushes the boundaries of tradition and digital and questions technology\u2019s role as a form of memory and a tool of power.",
+            "link": "https://opensea.io/collection/singularityinheritage",
+            "name": "Singularity in Heritage by ORKHAN.ART"
+        },
+        {
+            "desc": "THE M3DIUM X RISD STUDENT COLLECTION FEATURES 82 WORKS FROM 35 CURRENT AND RECENTLY GRADUATED, UP-AND-COMING ARTISTS AND DESIGNERS FROM VARIOUS MAJORS AT THE RHODE ISLAND SCHOOL OF DESIGN (RISD). RISD IS A WORLD CLASS INSTITUTION, AND THE PREMIERE ART AND DESIGN SCHOOL OF THE UNITED STATES.",
+            "link": "https://opensea.io/collection/m3dium-risd",
+            "name": "M3DIUM X RISD Student Collection"
+        },
+        {
+            "desc": "The 1336 Coach Pop Collection commemorates the new all-time winningest coach in NBA History. Each NFT will highlight a hand-drawn play with a digital signature from Coach Pop\u2019s arsenal, featured against a backdrop of the different courts Spurs teams have played on during his tenure.\u00a0",
+            "link": "https://opensea.io/collection/the-1336-coach-pop-collection?search[sortAscending]=false&search[sortBy]=CREATED_DATE",
+            "name": null
+        },
+        {
+            "desc": "Vandalz for Ukraine: Wladimir Klitschko x WhIsBe is a historic collaboration with 100% of the proceeds going directly to Red Cross Ukraine, UNICEF Ukraine, and Ukrainian relief funds to support their vital efforts to provide humanitarian relief to the people of Ukraine.",
+            "link": "https://opensea.io/collection/vandalz",
+            "name": null
+        },
+        {
+            "desc": "-- 02 --",
+            "link": "https://opensea.io/collection/unf01d",
+            "name": null
+        }
+    ],
+    "time": "Tue 15 Mar 14:47:01",
+    "top_featured": {
+        "collection_desc": "[Empty description]",
+        "collection_link": "https://opensea.io/collection/interconnectedplanes",
+        "collection_name": "Interconnected Planes"
+    }
+}
+
+
+
+
