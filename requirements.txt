@@ -1,3 +1,6 @@
 requests
+playsound
+pygame
 bs4
-pyperclip
+lxml
+prettytable

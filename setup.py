@@ -1,25 +1,23 @@
-import os
+from os import system
+import time
 
 
-log = []
-lines = []
+dependencies_file = "requirements.txt"
 
-def clear_scrn():
-    if 'nt' in os.name:
-        os.system('cls')
-    else:
-        os.system('clear')
+print("[+] Welcome to Coin-Tracker setup...")
+print("===================================================================")
+time.sleep(2)
 
-with open("requirements", "r") as f:
-    lines = f.readlines()
-    
-print('[+] Downloading important files...')
+print("[+] Please wait as Coin-Tracker installs...")
+print("===================================================================")
+time.sleep(2)
 
-for i in lines:
-    clear_scrn()
-    os.system(f'pip install {i}')
-    logs.append(i)
+# install dependencies
+system(f"python -m pip install -r {dependencies_file}")
 
-for i in log:
-    print(f'[+] Installed {i}')
-print(f'[+] Setup finished....\n[+] Launch "python main.py" for more')
+print("===================================================================")
+print("[+] All required packages have been installed")
+print('[+] To run, type "python crypto-fetch.py" in your favourite terminal app.')
+print("[+] For help or more, check the README.md file or go to https://github.com/ianwright27/coin-tracker/blob/main/README.md")
+
+
